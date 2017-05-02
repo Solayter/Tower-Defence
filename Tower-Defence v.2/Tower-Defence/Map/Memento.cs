@@ -14,7 +14,7 @@ namespace Tower_Defence
             string file = "";
             
             Dictionary<string, Action> dic = new Dictionary<string, Action>();
-            dic.Add("A1", () => { Console.Write("Sas"); });
+            
             for (int j = 0; j < Map.getInstance().yY; j++)
             {
                 //file += "\n";
