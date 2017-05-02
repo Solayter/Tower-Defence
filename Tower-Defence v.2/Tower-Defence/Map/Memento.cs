@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,69 +12,36 @@ namespace Tower_Defence
         public static string SaveFile()
         {
             string file = "";
-            
-            Dictionary<string, Action> dic = new Dictionary<string, Action>();
+            Dictionary<Type, Action<string>> dicA = new Dictionary<Type, Action<string>>();
+            Dictionary<Type, Action<string>> dicE = new Dictionary<Type, Action<string>>();
+            {
+                dicA.Add(typeof(Melee),     (str) => { file += "A1" + " "; });
+                dicA.Add(typeof(Range),     (str) => { file += "A2" + " "; });
+                dicA.Add(typeof(Ballista),  (str) => { file += "A3" + " "; });
+                dicA.Add(typeof(Tower),     (str) => { file += "A4" + " "; });
+                dicA.Add(typeof(Castle),    (str) => { file += "A5" + " "; });
+                dicE.Add(typeof(Melee),     (str) => { file += "E1" + " "; });
+                dicE.Add(typeof(Range),     (str) => { file += "E2" + " "; });
+                dicE.Add(typeof(Ballista),  (str) => { file += "E3" + " "; });
+                dicE.Add(typeof(Tower),     (str) => { file += "E4" + " "; });
+                dicE.Add(typeof(Castle),    (str) => { file += "E5" + " "; });
+            }
             
             for (int j = 0; j < Map.getInstance().yY; j++)
             {
-                //file += "\n";
                 for (int i = 0; i < Map.getInstance().xX; i++)
                 {
-                    Type p = Map.getInstance().field.GetType();
-                    //switch (p)
-                    {
-                        
-                    }
                     if (Map.getInstance().field[i, j].obj != null)
+                    {
                         if (!Map.getInstance().field[i, j].obj.enemy)
-                        {
-                            if (Map.getInstance().field[i, j].obj is Melee)
-                            {
-                                file += "A1" + " ";
-                            }
-                            if (Map.getInstance().field[i, j].obj is Range)
-                            {
-                                file += "A2" + " ";
-                            }
-                            if (Map.getInstance().field[i, j].obj is Ballista)
-                            {
-                                file += "A3" + " ";
-                            }
-                            if (Map.getInstance().field[i, j].obj is Tower)
-                            {
-                                file += "A4" + " ";
-                            }
-                            if (Map.getInstance().field[i, j].obj is Castle)
-                            {
-                                file += "A5" + " ";
-                            }
-                        }
+                            dicA[Map.getInstance().field[i, j].obj.GetType()](file);
                         else
-                        {
-                            if (Map.getInstance().field[i, j].obj is Melee)
-                            {
-                                file += "E1" + " ";
-                            }
-                            if (Map.getInstance().field[i, j].obj is Range)
-                            {
-                                file += "E2" + " ";
-                            }
-                            if (Map.getInstance().field[i, j].obj is Ballista)
-                            {
-                                file += "E3" + " ";
-                            }
-                            if (Map.getInstance().field[i, j].obj is Tower)
-                            {
-                                file += "E4" + " ";
-                            }
-                            if (Map.getInstance().field[i, j].obj is Castle)
-                            {
-                                file += "E5" + " ";
-                            }
-                        }
-
+                            dicE[Map.getInstance().field[i, j].obj.GetType()](file);
+                    }
                     else
+                    {
                         file += 0 + " ";
+                    }
                 }
             }
             return file;
@@ -102,7 +69,7 @@ namespace Tower_Defence
                 dic.Add("E3", (i, j) => { Map.getInstance().units.Add(Map.getInstance().ballistaSpawner.Create(true, i, j)); });
                 dic.Add("E4", (i, j) => { Map.getInstance().builds.Add(Map.getInstance().towerSpawner.Create(true, i, j)); });
                 dic.Add("E5", (i, j) => { Map.getInstance().builds.Add(Map.getInstance().castleSpawner.Create(true, i, j)); });
-                dic.Add("0", (i, j) => { Map.getInstance().field[i, j].obj = null; Map.getInstance().field[i, j].pass = true; });
+                dic.Add("0",  (i, j) => { Map.getInstance().field[i, j].obj = null; Map.getInstance().field[i, j].pass = true; });
             }
 
             for (int j = 0; j < Map.getInstance().yY; j++)
