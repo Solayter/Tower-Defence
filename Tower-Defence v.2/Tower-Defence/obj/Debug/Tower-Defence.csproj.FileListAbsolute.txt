@@ -1,0 +1,36 @@
+C:\Users\User\Source\Repos\Tower-Defence\Tower-Defence\Tower-Defence\bin\Debug\Tower-Defence.exe.config
+C:\Users\User\Source\Repos\Tower-Defence\Tower-Defence\Tower-Defence\bin\Debug\Tower-Defence.exe
+C:\Users\User\Source\Repos\Tower-Defence\Tower-Defence\Tower-Defence\bin\Debug\Tower-Defence.pdb
+C:\Users\User\Source\Repos\Tower-Defence\Tower-Defence\Tower-Defence\obj\Debug\Tower-Defence.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\Tower-Defence\Tower-Defence\Tower-Defence\obj\Debug\Tower_Defence.Properties.Resources.resources
+C:\Users\User\Source\Repos\Tower-Defence\Tower-Defence\Tower-Defence\obj\Debug\Tower-Defence.csproj.GenerateResource.Cache
+C:\Users\User\Source\Repos\Tower-Defence\Tower-Defence\Tower-Defence\obj\Debug\Tower-Defence.exe
+C:\Users\User\Source\Repos\Tower-Defence\Tower-Defence\Tower-Defence\obj\Debug\Tower-Defence.pdb
+C:\Users\User\Source\Repos\Tower-Defence\Tower-Defence\Tower-Defence\obj\Debug\Tower_Defence.MainForm.resources
+C:\Users\User\Desktop\Tower-Defence v.2\Tower-Defence\bin\Debug\Tower-Defence.exe.config
+C:\Users\User\Desktop\Tower-Defence v.2\Tower-Defence\obj\Debug\Tower-Defence.exe
+C:\Users\User\Desktop\Tower-Defence v.2\Tower-Defence\obj\Debug\Tower-Defence.pdb
+C:\Users\User\Desktop\Tower-Defence v.2\Tower-Defence\bin\Debug\Tower-Defence.exe
+C:\Users\User\Desktop\Tower-Defence v.2\Tower-Defence\bin\Debug\Tower-Defence.pdb
+C:\Users\User\Desktop\Tower-Defence v.2\Tower-Defence\obj\Debug\Tower-Defence.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Tower-Defence v.2\Tower-Defence\obj\Debug\Tower_Defence.MainForm.resources
+C:\Users\User\Desktop\Tower-Defence v.2\Tower-Defence\obj\Debug\Tower_Defence.Properties.Resources.resources
+C:\Users\User\Desktop\Tower-Defence v.2\Tower-Defence\obj\Debug\Tower-Defence.csproj.GenerateResource.Cache
+G:\Tower-Defence v.2\Tower-Defence\bin\Debug\Tower-Defence.exe.config
+G:\Tower-Defence v.2\Tower-Defence\obj\Debug\Tower-Defence.exe
+G:\Tower-Defence v.2\Tower-Defence\obj\Debug\Tower-Defence.pdb
+G:\Tower-Defence v.2\Tower-Defence\bin\Debug\Tower-Defence.exe
+G:\Tower-Defence v.2\Tower-Defence\bin\Debug\Tower-Defence.pdb
+G:\Tower-Defence v.2\Tower-Defence\obj\Debug\Tower-Defence.csprojResolveAssemblyReference.cache
+G:\Tower-Defence v.2\Tower-Defence\obj\Debug\Tower_Defence.MainForm.resources
+G:\Tower-Defence v.2\Tower-Defence\obj\Debug\Tower_Defence.Properties.Resources.resources
+G:\Tower-Defence v.2\Tower-Defence\obj\Debug\Tower-Defence.csproj.GenerateResource.Cache
+K:\Tower-Defence v.2\Tower-Defence\bin\Debug\Tower-Defence.exe.config
+K:\Tower-Defence v.2\Tower-Defence\obj\Debug\Tower-Defence.exe
+K:\Tower-Defence v.2\Tower-Defence\obj\Debug\Tower-Defence.pdb
+K:\Tower-Defence v.2\Tower-Defence\bin\Debug\Tower-Defence.exe
+K:\Tower-Defence v.2\Tower-Defence\bin\Debug\Tower-Defence.pdb
+K:\Tower-Defence v.2\Tower-Defence\obj\Debug\Tower-Defence.csprojResolveAssemblyReference.cache
+K:\Tower-Defence v.2\Tower-Defence\obj\Debug\Tower_Defence.MainForm.resources
+K:\Tower-Defence v.2\Tower-Defence\obj\Debug\Tower_Defence.Properties.Resources.resources
+K:\Tower-Defence v.2\Tower-Defence\obj\Debug\Tower-Defence.csproj.GenerateResource.Cache

@@ -1,0 +1,45 @@
+C:\Users\User\Source\Repos\Tower-Defence\Tower-Defence\Tower-Defence\bin\Release\Tower-Defence.exe.config
+C:\Users\User\Source\Repos\Tower-Defence\Tower-Defence\Tower-Defence\bin\Release\Tower-Defence.exe
+C:\Users\User\Source\Repos\Tower-Defence\Tower-Defence\Tower-Defence\bin\Release\Tower-Defence.pdb
+C:\Users\User\Source\Repos\Tower-Defence\Tower-Defence\Tower-Defence\obj\Release\Tower_Defence.MainForm.resources
+C:\Users\User\Source\Repos\Tower-Defence\Tower-Defence\Tower-Defence\obj\Release\Tower_Defence.Properties.Resources.resources
+C:\Users\User\Source\Repos\Tower-Defence\Tower-Defence\Tower-Defence\obj\Release\Tower-Defence.csproj.GenerateResource.Cache
+C:\Users\User\Source\Repos\Tower-Defence\Tower-Defence\Tower-Defence\obj\Release\Tower-Defence.exe
+C:\Users\User\Source\Repos\Tower-Defence\Tower-Defence\Tower-Defence\obj\Release\Tower-Defence.pdb
+C:\Users\User\Source\Repos\Tower-Defence\Tower-Defence\Tower-Defence\obj\Release\Tower-Defence.csprojResolveAssemblyReference.cache
+J:\Tower-Defence\Tower-Defence\bin\Release\Tower-Defence.exe.config
+J:\Tower-Defence\Tower-Defence\obj\Release\Tower-Defence.exe
+J:\Tower-Defence\Tower-Defence\obj\Release\Tower-Defence.pdb
+J:\Tower-Defence\Tower-Defence\bin\Release\Tower-Defence.exe
+J:\Tower-Defence\Tower-Defence\bin\Release\Tower-Defence.pdb
+J:\Tower-Defence\Tower-Defence\obj\Release\Tower-Defence.csprojResolveAssemblyReference.cache
+J:\Tower-Defence\Tower-Defence\obj\Release\Tower_Defence.MainForm.resources
+J:\Tower-Defence\Tower-Defence\obj\Release\Tower_Defence.Properties.Resources.resources
+J:\Tower-Defence\Tower-Defence\obj\Release\Tower-Defence.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Tower-Defence\Tower-Defence\bin\Release\Tower-Defence.exe.config
+C:\Users\User\Desktop\Tower-Defence\Tower-Defence\obj\Release\Tower-Defence.exe
+C:\Users\User\Desktop\Tower-Defence\Tower-Defence\obj\Release\Tower-Defence.pdb
+C:\Users\User\Desktop\Tower-Defence\Tower-Defence\bin\Release\Tower-Defence.exe
+C:\Users\User\Desktop\Tower-Defence\Tower-Defence\bin\Release\Tower-Defence.pdb
+C:\Users\User\Desktop\Tower-Defence\Tower-Defence\obj\Release\Tower-Defence.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Tower-Defence\Tower-Defence\obj\Release\Tower_Defence.MainForm.resources
+C:\Users\User\Desktop\Tower-Defence\Tower-Defence\obj\Release\Tower_Defence.Properties.Resources.resources
+C:\Users\User\Desktop\Tower-Defence\Tower-Defence\obj\Release\Tower-Defence.csproj.GenerateResource.Cache
+X:\Server\Tower-Defence\Tower-Defence\bin\Release\Tower-Defence.exe.config
+X:\Server\Tower-Defence\Tower-Defence\obj\Release\Tower-Defence.exe
+X:\Server\Tower-Defence\Tower-Defence\obj\Release\Tower-Defence.pdb
+X:\Server\Tower-Defence\Tower-Defence\bin\Release\Tower-Defence.exe
+X:\Server\Tower-Defence\Tower-Defence\bin\Release\Tower-Defence.pdb
+X:\Server\Tower-Defence\Tower-Defence\obj\Release\Tower-Defence.csprojResolveAssemblyReference.cache
+X:\Server\Tower-Defence\Tower-Defence\obj\Release\Tower_Defence.MainForm.resources
+X:\Server\Tower-Defence\Tower-Defence\obj\Release\Tower_Defence.Properties.Resources.resources
+X:\Server\Tower-Defence\Tower-Defence\obj\Release\Tower-Defence.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Tower-Defence v.2\Tower-Defence\bin\Release\Tower-Defence.exe.config
+C:\Users\User\Desktop\Tower-Defence v.2\Tower-Defence\obj\Release\Tower-Defence.exe
+C:\Users\User\Desktop\Tower-Defence v.2\Tower-Defence\obj\Release\Tower-Defence.pdb
+C:\Users\User\Desktop\Tower-Defence v.2\Tower-Defence\bin\Release\Tower-Defence.exe
+C:\Users\User\Desktop\Tower-Defence v.2\Tower-Defence\bin\Release\Tower-Defence.pdb
+C:\Users\User\Desktop\Tower-Defence v.2\Tower-Defence\obj\Release\Tower-Defence.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Tower-Defence v.2\Tower-Defence\obj\Release\Tower_Defence.MainForm.resources
+C:\Users\User\Desktop\Tower-Defence v.2\Tower-Defence\obj\Release\Tower_Defence.Properties.Resources.resources
+C:\Users\User\Desktop\Tower-Defence v.2\Tower-Defence\obj\Release\Tower-Defence.csproj.GenerateResource.Cache
